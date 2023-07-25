@@ -1,0 +1,12 @@
+C:\Users\ASUS\Desktop\API project\Api_Task\ApiTask.Core\bin\Debug\net6.0\ApiTask.core.deps.json
+C:\Users\ASUS\Desktop\API project\Api_Task\ApiTask.Core\bin\Debug\net6.0\ApiTask.core.dll
+C:\Users\ASUS\Desktop\API project\Api_Task\ApiTask.Core\bin\Debug\net6.0\ApiTask.core.pdb
+C:\Users\ASUS\Desktop\API project\Api_Task\ApiTask.Core\obj\Debug\net6.0\ApiTask.core.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\API project\Api_Task\ApiTask.Core\obj\Debug\net6.0\ApiTask.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\API project\Api_Task\ApiTask.Core\obj\Debug\net6.0\ApiTask.core.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\API project\Api_Task\ApiTask.Core\obj\Debug\net6.0\ApiTask.core.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\API project\Api_Task\ApiTask.Core\obj\Debug\net6.0\ApiTask.core.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\API project\Api_Task\ApiTask.Core\obj\Debug\net6.0\ApiTask.core.dll
+C:\Users\ASUS\Desktop\API project\Api_Task\ApiTask.Core\obj\Debug\net6.0\refint\ApiTask.core.dll
+C:\Users\ASUS\Desktop\API project\Api_Task\ApiTask.Core\obj\Debug\net6.0\ApiTask.core.pdb
+C:\Users\ASUS\Desktop\API project\Api_Task\ApiTask.Core\obj\Debug\net6.0\ref\ApiTask.core.dll

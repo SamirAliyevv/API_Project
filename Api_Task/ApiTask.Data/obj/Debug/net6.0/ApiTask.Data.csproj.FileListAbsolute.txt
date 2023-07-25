@@ -1,0 +1,17 @@
+C:\Users\ASUS\Desktop\API project\Api_Task\ApiTask.Data\bin\Debug\net6.0\ApiTask.Data.deps.json
+C:\Users\ASUS\Desktop\API project\Api_Task\ApiTask.Data\bin\Debug\net6.0\ApiTask.Data.runtimeconfig.json
+C:\Users\ASUS\Desktop\API project\Api_Task\ApiTask.Data\bin\Debug\net6.0\ApiTask.Data.dll
+C:\Users\ASUS\Desktop\API project\Api_Task\ApiTask.Data\bin\Debug\net6.0\ApiTask.Data.pdb
+C:\Users\ASUS\Desktop\API project\Api_Task\ApiTask.Data\bin\Debug\net6.0\ApiTask.core.dll
+C:\Users\ASUS\Desktop\API project\Api_Task\ApiTask.Data\bin\Debug\net6.0\ApiTask.core.pdb
+C:\Users\ASUS\Desktop\API project\Api_Task\ApiTask.Data\obj\Debug\net6.0\ApiTask.Data.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\API project\Api_Task\ApiTask.Data\obj\Debug\net6.0\ApiTask.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\API project\Api_Task\ApiTask.Data\obj\Debug\net6.0\ApiTask.Data.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\API project\Api_Task\ApiTask.Data\obj\Debug\net6.0\ApiTask.Data.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\API project\Api_Task\ApiTask.Data\obj\Debug\net6.0\ApiTask.Data.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\API project\Api_Task\ApiTask.Data\obj\Debug\net6.0\ApiTask.Data.csproj.CopyComplete
+C:\Users\ASUS\Desktop\API project\Api_Task\ApiTask.Data\obj\Debug\net6.0\ApiTask.Data.dll
+C:\Users\ASUS\Desktop\API project\Api_Task\ApiTask.Data\obj\Debug\net6.0\refint\ApiTask.Data.dll
+C:\Users\ASUS\Desktop\API project\Api_Task\ApiTask.Data\obj\Debug\net6.0\ApiTask.Data.pdb
+C:\Users\ASUS\Desktop\API project\Api_Task\ApiTask.Data\obj\Debug\net6.0\ApiTask.Data.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\API project\Api_Task\ApiTask.Data\obj\Debug\net6.0\ref\ApiTask.Data.dll
