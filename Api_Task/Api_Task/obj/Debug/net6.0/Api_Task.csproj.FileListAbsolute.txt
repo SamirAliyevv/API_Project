@@ -83,3 +83,4 @@ C:\Users\ASUS\Desktop\API project\Api_Task\Api_Task\obj\Debug\net6.0\refint\Api_
 C:\Users\ASUS\Desktop\API project\Api_Task\Api_Task\obj\Debug\net6.0\Api_Task.pdb
 C:\Users\ASUS\Desktop\API project\Api_Task\Api_Task\obj\Debug\net6.0\Api_Task.genruntimeconfig.cache
 C:\Users\ASUS\Desktop\API project\Api_Task\Api_Task\obj\Debug\net6.0\ref\Api_Task.dll
+C:\Users\ASUS\Desktop\API project\Api_Task\Api_Task\bin\Debug\net6.0\MicroElements.Swashbuckle.FluentValidation.dll

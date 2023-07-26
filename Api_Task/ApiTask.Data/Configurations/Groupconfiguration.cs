@@ -13,7 +13,7 @@ namespace ApiTask.Data.Configurations
     {
         public void Configure(EntityTypeBuilder<Group> builder)
         {
-            builder.Property(x => x.No).IsRequired();
+            builder.Property(x => x.GroupNo).IsRequired().HasMaxLength(6);
         }
 
     }

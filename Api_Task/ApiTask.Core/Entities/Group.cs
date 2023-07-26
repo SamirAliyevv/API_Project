@@ -10,6 +10,7 @@ namespace ApiTask.core.Entities
     {
 
         public int Id { get; set; }
-        public int No { get; set; } 
+        public string GroupNo { get; set; } 
+        List<Student> Students { get; set;}
     }
 }
