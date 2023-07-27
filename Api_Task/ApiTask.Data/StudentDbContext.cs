@@ -19,6 +19,8 @@ namespace ApiTask.Data
 
         public DbSet<Group> Groups { get; set; }
 
+        public DbSet<AppUser> AppUsers { get; set; }
+
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.ApplyConfigurationsFromAssembly(typeof(Studentconfiguration).Assembly);
